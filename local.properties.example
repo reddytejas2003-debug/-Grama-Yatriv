@@ -1,0 +1,11 @@
+# Add this to your local.properties (DO NOT commit your real keys)
+# local.properties is already ignored by Android Studio/Gradle by default
+
+MAPS_API_KEY=YOUR_GOOGLE_MAPS_API_KEY_HERE
+
+# Optional: release signing config (required for installable production APK)
+
+RELEASE_STORE_FILE=path/to/your-release.keystore
+RELEASE_STORE_PASSWORD=YOUR_STORE_PASSWORD
+RELEASE_KEY_ALIAS=YOUR_KEY_ALIAS
+RELEASE_KEY_PASSWORD=YOUR_KEY_PASSWORD
